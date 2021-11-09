@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.0"
+  },
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "run-sv": "json-server --watch --host 192.168.1.37 database.json --port 8080"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

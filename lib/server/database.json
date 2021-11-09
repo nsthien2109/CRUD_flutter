@@ -1,0 +1,46 @@
+{
+  "user": [
+    {
+      "id": 2,
+      "userName": "David",
+      "userPhone": "0903524215"
+    },
+    {
+      "id": 3,
+      "userName": "Moise",
+      "userPhone": "0903524215"
+    },
+    {
+      "userName": "Rose",
+      "userPhone": "0903524215",
+      "id": 4
+    },
+    {
+      "userName": "Cookie",
+      "userPhone": "45678905678",
+      "id": 8
+    }
+  ],
+  "category": [
+    {
+      "categoryID": "1",
+      "categoryName": "Vegitable"
+    },
+    {
+      "categoryID": "2",
+      "categoryName": "Drink"
+    },
+    {
+      "categoryID": "3",
+      "categoryName": "Cake"
+    },
+    {
+      "categoryID": "4",
+      "categoryName": "Topping"
+    },
+    {
+      "categoryID": "5",
+      "categoryName": "Other"
+    }
+  ]
+}
